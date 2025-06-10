@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koyomiya Homepage</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Koyomiya Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2025 コヨミヤ / Koyomiya</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>リンク集</title>
+      <link>http://localhost:1313/posts/link/</link>
+      <pubDate>Mon, 09 Jun 2025 22:49:19 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/link/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Wiki 
+    &lt;div id=&#34;wiki&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#wiki&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%e5%88%a9%e7%94%a8%e8%80%85:%e3%82%b3%e3%83%a8%e3%83%9f%e3%83%a4&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meta.miraheze.org/wiki/User:Koyomiya5438&#34; target=&#34;_blank&#34;&gt;Miraheze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://enpedia.rxy.jp/wiki/%e5%88%a9%e7%94%a8%e8%80%85:%e3%82%b3%e3%83%a8%e3%83%9f%e3%83%a4&#34; target=&#34;_blank&#34;&gt;Enpedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;SNS類 
+    &lt;div id=&#34;sns類&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#sns%e9%a1%9e&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email:info@koymi.net&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/koyomiyahouya&#34; target=&#34;_blank&#34;&gt;X (旧Twiter)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/543.bsky.social&#34; target=&#34;_blank&#34;&gt;Bluesky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://note.com/koymi&#34; target=&#34;_blank&#34;&gt;note&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;非活発 
+    &lt;div id=&#34;非活発&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%9d%9e%e6%b4%bb%e7%99%ba&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fedibird.com/@koyomiya&#34; target=&#34;_blank&#34;&gt;Mastodon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/Koyomiya&#34; target=&#34;_blank&#34;&gt;Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/koyomiya&#34; target=&#34;_blank&#34;&gt;Zenn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/user/koyomiya&#34; target=&#34;_blank&#34;&gt;Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@Koyomiya5438&#34; target=&#34;_blank&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fedimovie.com/a/koyomiya/video-channels&#34; target=&#34;_blank&#34;&gt;Fedimovie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;その他 
+    &lt;div id=&#34;その他&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%9d%e3%81%ae%e4%bb%96&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://koyomiya.carrd.co/&#34; target=&#34;_blank&#34;&gt;Carrd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dlt.kitetu.com/KNo.9-547E&#34; target=&#34;_blank&#34;&gt;デライト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pastebin.com/u/Koyomiya&#34; target=&#34;_blank&#34;&gt;Pastebin.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

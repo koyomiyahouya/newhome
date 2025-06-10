@@ -1,0 +1,41 @@
+# サイトのタイトルを指定
+title = "Koyomiya Homepage"
+
+# 言語コードを日本語に設定
+languageCode = "ja"
+
+# 言語名を日本語で指定
+languageName = "日本語"
+
+[params.author]
+# 著者情報を設定
+# 著者の名前
+name = "コヨミヤ / Koyomiya"
+
+# 著者のアイコン画像のパス
+image = "https://koyomiyahouya.github.io/assets/images/logo-wakusen.png"
+
+# 著者の一言紹介
+headline = "Wikipedian"
+
+# 著者の詳細な紹介文
+bio = "Wikipedian"
+
+# 著者のリンク集（GitHubとTwitterのURLを指定）
+links = [
+    { x-twitter = "https://x.com/koyomiyahouya" },
+    { bluesky = "https://bsky.app/profile/543.bsky.social"},
+    { github = "https://github.com/koyomiyahouya" },
+    {  pencil = "https://note.com/koymi" }
+]
+
+[params]
+# サイトに表示される言語名を指定
+displayName = "JA"
+
+# ISO形式の言語コードを指定
+isoCode = "ja"
+
+# 日付フォーマットを設定
+# 例: 2006年1月2日 15時04分
+dateFormat = "2006/01/02 15:04"
