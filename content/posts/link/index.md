@@ -10,7 +10,7 @@ description: "「コヨミヤ」「Koyomiya」等の名義のアカウント類�
 * [Enpedia](https://enpedia.rxy.jp/wiki/利用者:コヨミヤ)
 
 ## SNS類
-* Email:info@koymi.net
+* Email:info@m.koymi.net
 * [X (旧Twiter)](https://twitter.com/koyomiyahouya)
 * [Bluesky](https://bsky.app/profile/543.bsky.social)
 * [note](https://note.com/koymi)
