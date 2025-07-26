@@ -1,0 +1,12 @@
+baseURL = "https://koymi.net/"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+title = "Koyomiya Homepage"
+theme = "blowfish"
+canonifyurls = true
+
+[frontmatter]
+lastmod = [":git", ":fileModTime", ":default"]
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
