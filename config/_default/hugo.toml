@@ -6,7 +6,7 @@ baseURL = "https://koymi.net/"
 languageCode = "ja"
 
 # コンテンツのデフォルト言語を日本語に設定
-defaultContentLanguage = "ja"
+defaultContentLanguage = ja
 
 canonifyurls = true
 
