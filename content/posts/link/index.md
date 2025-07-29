@@ -14,6 +14,7 @@ description: "「コヨミヤ」「Koyomiya」等の名義のアカウント類�
 * [X (旧Twiter)](https://twitter.com/koyomiyahouya)
 * [Bluesky](https://bsky.app/profile/543.bsky.social)
 * [note](https://note.com/koymi)
+
 ### 非活発
 * [Mastodon](https://fedibird.com/@koyomiya)
 * [Qiita](https://qiita.com/Koyomiya)
