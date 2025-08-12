@@ -1,6 +1,6 @@
 ---
 title: "リンク集"
-date: 2025-06-09T22:49:19+09:00
+date: 2025-08-12
 draft: false
 description: "「コヨミヤ」「Koyomiya」等の名義のアカウント類です。"
 ---
@@ -25,5 +25,6 @@ description: "「コヨミヤ」「Koyomiya」等の名義のアカウント類�
 
 ## その他
 * [Carrd](https://koyomiya.carrd.co/)
+* [GitHub](https://github.com/koyomiyahouya)
 * [デライト](https://dlt.kitetu.com/KNo.9-547E)
 * [Pastebin.com](https://pastebin.com/u/Koyomiya)
