@@ -4,6 +4,9 @@ date: 2025-08-12
 draft: false
 description: "「コヨミヤ」「Koyomiya」等の名義のアカウント類です。"
 ---
+## 旧ウェブサイト
+* [Koyomiya Homepage](https://koyomiyahouya.github.io/)
+
 ## Wiki
 * [Wikipedia](https://ja.wikipedia.org/wiki/利用者:コヨミヤ)
 * [Miraheze](https://meta.miraheze.org/wiki/User:Koyomiya5438)
