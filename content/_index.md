@@ -1,7 +1,7 @@
 ___
 ### About
 * Name:**コヨミヤ**（Koyomiya,暦谷）
-* Age:**17**（birth date:**2008/01/28**）
+* Age:**18**（birth date:**2008/01/28**）
 
 ### Group
 * [**Wikimedians of Japan User Group**](https://meta.wikimedia.org/wiki/Wikimedians_of_Japan_User_Group) スタッフ
