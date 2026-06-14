@@ -1,6 +1,5 @@
 ---
 title: "リンク集"
-date: 2025-08-12
 draft: false
 description: "「コヨミヤ」「Koyomiya」等の名義のアカウント類です。"
 ---
