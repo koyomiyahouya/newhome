@@ -1,0 +1,15 @@
+---
+title: "やってきたこと"
+draft: false
+description: "実績・発表・寄稿 などなど"
+---
+## 発表
+* 2026/05 (Wikimedia in education: a look at Wiki Clubs)[https://wikimedia.eventyay.com/eseap/eseapcon/talk/QUFR97/] - ESEAP Conference 2026
+* 2024/12 (知られざるウィキペディアの世界)[https://www.tufs.ac.jp/event/2024/241212_1.html] - 東京外国語大学
+
+## 寄稿
+* 2026/05 「五大新聞紙系列のウェブサイト出典使用数調査」- (Wikipediaの向こう側)[https://booth.pm/ja/items/8250668]
+* 2026/03 「百科事典の「索引巻」の魅力」- (『辞書尚友』002号)[https://booth.pm/ja/items/8311344]
+
+## 記事
+* 2023/06「(【対談】ウィキペディアを執筆・整備する)[https://diff.wikimedia.org/ja/2023/06/28/【対談】ウィキペディアを執筆・整備する/]」- Diff
