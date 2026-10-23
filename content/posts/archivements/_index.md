@@ -4,6 +4,7 @@ draft: false
 description: "実績・発表・寄稿 などなど"
 ---
 ## 発表
+* 2026/10 [大学教育とウィキペディア](https://www.libraryfair.jp/forum/2026/2325) - 図書館総合展
 * 2026/05 [Wikimedia in education: a look at Wiki Clubs](https://wikimedia.eventyay.com/eseap/eseapcon/talk/QUFR97/) - ESEAP Conference 2026
 * 2024/12 [知られざるウィキペディアの世界](https://www.tufs.ac.jp/event/2024/241212_1.html) - 東京外国語大学
 
